@@ -1,0 +1,23 @@
+@media (max-width: 320px) {
+    .image2 {
+        width: 200px !important;
+    }
+    .image3 {
+        margin-left: -70px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .image1 {
+        width: 120px !important;
+    }
+    .image2 {
+        margin-left: -50px !important;
+        width: 250px;
+        margin-top: -80px;
+    }
+    .image3 {
+        margin-left: -50px;
+        width: 120px !important;
+    }
+}
